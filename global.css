@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --inter-regular-16: Inter;
+  --pj-regular-21: "Plus Jakarta Sans";
+
+  /* font sizes */
+  --pj-bold-18-size: 18px;
+  --pj-regular-21-size: 21px;
+  --font-size-mid: 17px;
+  --pj-bold-42-size: 42px;
+  --font-size-15xl: 34px;
+  --font-size-6xl: 25px;
+  --pj-regular-16-size: 16px;
+  --font-size-13xl: 32px;
+  --font-size-7xl: 26px;
+  --font-size-lgi: 19px;
+
+  /* Colors */
+  --color-whitesmoke: #f6f9fc;
+  --gray-900: #18181b;
+  --black: #12141d;
+  --primary: #0b0b0b;
+  --color-gray-100: rgba(250, 250, 250, 0.7);
+  --color-gray-200: rgba(18, 20, 29, 0.7);
+  --base-white: #fff;
+  --gray-200: #e4e4e7;
+  --gray-400: #a1a1aa;
+  --base-black: #000;
+  --secondary: #ddf472;
+  --gray-300: #d4d4d8;
+
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-11xl: 30px;
+  --gap-mini: 15px;
+  --gap-4xs: 9px;
+  --gap-7xl: 26px;
+  --gap-9xl: 28px;
+  --gap-lg: 18px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-81xl: 100px;
+  --padding-xl: 20px;
+  --padding-26xl: 45px;
+  --padding-46xl: 65px;
+  --padding-10xl: 29px;
+  --padding-4xs: 9px;
+  --padding-133xl: 152px;
+  --padding-57xl: 76px;
+  --padding-11xl: 30px;
+  --padding-mini: 15px;
+  --padding-smi: 13px;
+  --padding-34xl: 53px;
+  --padding-61xl: 80px;
+  --padding-14xl: 33px;
+  --padding-2xl: 21px;
+  --padding-71xl: 90px;
+  --padding-41xl: 60px;
+  --padding-10xs: 3px;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+  --br-141xl: 160px;
+  --br-3xs: 10px;
+}
